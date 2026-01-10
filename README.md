@@ -16,6 +16,27 @@ The Points Counter app allows you to track the scores of two teams (Team A and T
 - Attractive orange color design
 - Visual divider between teams for easy reading
 
+
+## 🎥 App Demo
+
+This video demonstrates the app UI, navigation, and main features:
+
+📹 **Demo Video:**  
+https://github.com/user-attachments/assets/ba6b6f8e-a55d-4898-b6dc-43fb47b52568
+---
+---
+
+
+https://github.com/user-attachments/assets/ba6b6f8e-a55d-4898-b6dc-43fb47b52568
+
+
+---
+
+Screenshots
+
+### Home Screen
+<img src="assets/screenshots/home_screen.png" width="300"/>
+
 ## 🛠️ Requirements
 
 - Flutter SDK 3.10.1 or newer
