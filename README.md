@@ -6,6 +6,14 @@ A simple and practical application for tracking points for two teams in a basket
 
 The Points Counter app allows you to track the scores of two teams (Team A and Team B) during a basketball game. You can add different points (1, 2, or 3 points) for each team and reset the scores at any time.
 
+
+---
+
+# 🤖 Download the Android app here.
+[Donwload now](https://ahmedeltantawi.netlify.app/Basketball_Counter.apk)
+
+---
+
 ## ✨ Features
 
 - Simple and user-friendly interface
